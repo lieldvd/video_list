@@ -1,0 +1,1388 @@
+[
+    {
+        "video_id": "42316",
+        "frame_id": "frame_9.png",
+        "obj_bbox_list": [
+            [
+                243,
+                74,
+                259,
+                128
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    248,
+                    88,
+                    291,
+                    121
+                ],
+                "object_cc": [
+                    251.07568359375,
+                    100.95512390136719
+                ],
+                "hand_cc": [
+                    269.5,
+                    104.5
+                ]
+            }
+        ],
+        "id": 9
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_8.png",
+        "obj_bbox_list": [
+            [
+                245,
+                75,
+                262,
+                130
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    250,
+                    90,
+                    295,
+                    122
+                ],
+                "object_cc": [
+                    253.5032958984375,
+                    102.24614715576172
+                ],
+                "hand_cc": [
+                    272.5,
+                    106.0
+                ]
+            }
+        ],
+        "id": 8
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_7.png",
+        "obj_bbox_list": [
+            [
+                245,
+                77,
+                262,
+                133
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    248,
+                    93,
+                    294,
+                    125
+                ],
+                "object_cc": [
+                    253.8964385986328,
+                    105.16184997558594
+                ],
+                "hand_cc": [
+                    271.0,
+                    109.0
+                ]
+            }
+        ],
+        "id": 7
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_67.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 67
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_66.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 66
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_65.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 65
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_64.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 64
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_63.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 63
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_62.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 62
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_61.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 61
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_60.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 60
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_6.png",
+        "obj_bbox_list": [
+            [
+                246,
+                78,
+                263,
+                134
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    252,
+                    94,
+                    296,
+                    126
+                ],
+                "object_cc": [
+                    254.70773315429688,
+                    105.96028900146484
+                ],
+                "hand_cc": [
+                    274.0,
+                    110.0
+                ]
+            }
+        ],
+        "id": 6
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_59.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 59
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_58.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 58
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_57.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 57
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_56.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 56
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_55.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 55
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_54.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 54
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_53.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 53
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_52.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 52
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_51.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 51
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_50.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 50
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_5.png",
+        "obj_bbox_list": [
+            [
+                248,
+                78,
+                265,
+                134
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    255,
+                    95,
+                    297,
+                    126
+                ],
+                "object_cc": [
+                    256.2938537597656,
+                    105.9777603149414
+                ],
+                "hand_cc": [
+                    276.0,
+                    110.5
+                ]
+            }
+        ],
+        "id": 5
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_49.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 49
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_48.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 48
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_47.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 47
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_46.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 46
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_45.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 45
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_44.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 44
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_43.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 43
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_42.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 42
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_41.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 41
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_40.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 40
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_4.png",
+        "obj_bbox_list": [
+            [
+                246,
+                78,
+                264,
+                133
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    253,
+                    94,
+                    296,
+                    126
+                ],
+                "object_cc": [
+                    255.1427001953125,
+                    105.47509765625
+                ],
+                "hand_cc": [
+                    274.5,
+                    110.0
+                ]
+            }
+        ],
+        "id": 4
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_39.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 39
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_38.png",
+        "obj_bbox_list": [],
+        "hand_list": [],
+        "id": 38
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_37.png",
+        "obj_bbox_list": [],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    290,
+                    152,
+                    337,
+                    185
+                ],
+                "object_cc": null,
+                "hand_cc": null
+            }
+        ],
+        "id": 37
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_36.png",
+        "obj_bbox_list": [],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "N",
+                "bbox": [
+                    264,
+                    137,
+                    309,
+                    165
+                ],
+                "object_cc": null,
+                "hand_cc": null
+            }
+        ],
+        "id": 36
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_35.png",
+        "obj_bbox_list": [],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "N",
+                "bbox": [
+                    241,
+                    126,
+                    284,
+                    151
+                ],
+                "object_cc": null,
+                "hand_cc": null
+            }
+        ],
+        "id": 35
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_34.png",
+        "obj_bbox_list": [],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "N",
+                "bbox": [
+                    231,
+                    124,
+                    272,
+                    149
+                ],
+                "object_cc": null,
+                "hand_cc": null
+            }
+        ],
+        "id": 34
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_33.png",
+        "obj_bbox_list": [],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "N",
+                "bbox": [
+                    223,
+                    125,
+                    265,
+                    152
+                ],
+                "object_cc": null,
+                "hand_cc": null
+            }
+        ],
+        "id": 33
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_32.png",
+        "obj_bbox_list": [],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "N",
+                "bbox": [
+                    220,
+                    127,
+                    254,
+                    153
+                ],
+                "object_cc": null,
+                "hand_cc": null
+            }
+        ],
+        "id": 32
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_31.png",
+        "obj_bbox_list": [
+            [
+                196,
+                143,
+                245,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    220,
+                    131,
+                    253,
+                    152
+                ],
+                "object_cc": [
+                    220.36273193359375,
+                    156.72445678710938
+                ],
+                "hand_cc": [
+                    236.5,
+                    141.5
+                ]
+            }
+        ],
+        "id": 31
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_30.png",
+        "obj_bbox_list": [
+            [
+                196,
+                145,
+                244,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    218,
+                    133,
+                    249,
+                    156
+                ],
+                "object_cc": [
+                    220.2605438232422,
+                    158.04893493652344
+                ],
+                "hand_cc": [
+                    233.5,
+                    144.5
+                ]
+            }
+        ],
+        "id": 30
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_3.png",
+        "obj_bbox_list": [
+            [
+                245,
+                77,
+                262,
+                133
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    253,
+                    93,
+                    295,
+                    125
+                ],
+                "object_cc": [
+                    253.8984375,
+                    104.86581420898438
+                ],
+                "hand_cc": [
+                    274.0,
+                    109.0
+                ]
+            }
+        ],
+        "id": 3
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_29.png",
+        "obj_bbox_list": [
+            [
+                197,
+                146,
+                244,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    217,
+                    134,
+                    249,
+                    157
+                ],
+                "object_cc": [
+                    220.36184692382812,
+                    158.3695068359375
+                ],
+                "hand_cc": [
+                    233.0,
+                    145.5
+                ]
+            }
+        ],
+        "id": 29
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_28.png",
+        "obj_bbox_list": [
+            [
+                196,
+                147,
+                245,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    217,
+                    135,
+                    249,
+                    158
+                ],
+                "object_cc": [
+                    220.47525024414062,
+                    158.978271484375
+                ],
+                "hand_cc": [
+                    233.0,
+                    146.5
+                ]
+            }
+        ],
+        "id": 28
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_27.png",
+        "obj_bbox_list": [
+            [
+                197,
+                148,
+                244,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    218,
+                    135,
+                    247,
+                    158
+                ],
+                "object_cc": [
+                    220.37710571289062,
+                    159.58175659179688
+                ],
+                "hand_cc": [
+                    232.5,
+                    146.5
+                ]
+            }
+        ],
+        "id": 27
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_26.png",
+        "obj_bbox_list": [
+            [
+                196,
+                148,
+                244,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    216,
+                    136,
+                    247,
+                    158
+                ],
+                "object_cc": [
+                    219.6314239501953,
+                    159.6806640625
+                ],
+                "hand_cc": [
+                    231.5,
+                    147.0
+                ]
+            }
+        ],
+        "id": 26
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_25.png",
+        "obj_bbox_list": [
+            [
+                193,
+                148,
+                242,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    214,
+                    134,
+                    243,
+                    158
+                ],
+                "object_cc": [
+                    217.689697265625,
+                    159.62338256835938
+                ],
+                "hand_cc": [
+                    228.5,
+                    146.0
+                ]
+            }
+        ],
+        "id": 25
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_24.png",
+        "obj_bbox_list": [
+            [
+                192,
+                148,
+                241,
+                172
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    214,
+                    134,
+                    243,
+                    158
+                ],
+                "object_cc": [
+                    216.41250610351562,
+                    159.75389099121094
+                ],
+                "hand_cc": [
+                    228.5,
+                    146.0
+                ]
+            }
+        ],
+        "id": 24
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_23.png",
+        "obj_bbox_list": [
+            [
+                190,
+                148,
+                240,
+                172
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    212,
+                    135,
+                    241,
+                    158
+                ],
+                "object_cc": [
+                    215.17172241210938,
+                    159.98171997070312
+                ],
+                "hand_cc": [
+                    226.5,
+                    146.5
+                ]
+            }
+        ],
+        "id": 23
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_22.png",
+        "obj_bbox_list": [
+            [
+                190,
+                149,
+                240,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    210,
+                    135,
+                    240,
+                    159
+                ],
+                "object_cc": [
+                    215.0048370361328,
+                    160.1515655517578
+                ],
+                "hand_cc": [
+                    225.0,
+                    147.0
+                ]
+            }
+        ],
+        "id": 22
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_21.png",
+        "obj_bbox_list": [
+            [
+                190,
+                147,
+                237,
+                171
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    208,
+                    132,
+                    239,
+                    156
+                ],
+                "object_cc": [
+                    213.527587890625,
+                    158.69137573242188
+                ],
+                "hand_cc": [
+                    223.5,
+                    144.0
+                ]
+            }
+        ],
+        "id": 21
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_20.png",
+        "obj_bbox_list": [
+            [
+                189,
+                144,
+                238,
+                169
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    209,
+                    130,
+                    239,
+                    155
+                ],
+                "object_cc": [
+                    213.73406982421875,
+                    156.48699951171875
+                ],
+                "hand_cc": [
+                    224.0,
+                    142.5
+                ]
+            }
+        ],
+        "id": 20
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_2.png",
+        "obj_bbox_list": [
+            [
+                245,
+                77,
+                261,
+                131
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    251,
+                    93,
+                    294,
+                    125
+                ],
+                "object_cc": [
+                    253.2847137451172,
+                    104.08413696289062
+                ],
+                "hand_cc": [
+                    272.5,
+                    109.0
+                ]
+            }
+        ],
+        "id": 2
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_19.png",
+        "obj_bbox_list": [
+            [
+                189,
+                143,
+                239,
+                167
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    210,
+                    129,
+                    239,
+                    154
+                ],
+                "object_cc": [
+                    214.26785278320312,
+                    154.7103271484375
+                ],
+                "hand_cc": [
+                    224.5,
+                    141.5
+                ]
+            }
+        ],
+        "id": 19
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_18.png",
+        "obj_bbox_list": [
+            [
+                189,
+                142,
+                240,
+                165
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    211,
+                    128,
+                    239,
+                    153
+                ],
+                "object_cc": [
+                    214.2481689453125,
+                    153.51473999023438
+                ],
+                "hand_cc": [
+                    225.0,
+                    140.5
+                ]
+            }
+        ],
+        "id": 18
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_17.png",
+        "obj_bbox_list": [
+            [
+                189,
+                135,
+                237,
+                162
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    208,
+                    122,
+                    248,
+                    147
+                ],
+                "object_cc": [
+                    212.8618927001953,
+                    148.76361083984375
+                ],
+                "hand_cc": [
+                    228.0,
+                    134.5
+                ]
+            }
+        ],
+        "id": 17
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_16.png",
+        "obj_bbox_list": [
+            [
+                188,
+                128,
+                236,
+                158
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    206,
+                    118,
+                    247,
+                    144
+                ],
+                "object_cc": [
+                    211.93197631835938,
+                    143.1363983154297
+                ],
+                "hand_cc": [
+                    226.5,
+                    131.0
+                ]
+            }
+        ],
+        "id": 16
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_15.png",
+        "obj_bbox_list": [
+            [
+                187,
+                118,
+                237,
+                151
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    209,
+                    111,
+                    248,
+                    135
+                ],
+                "object_cc": [
+                    212.0228271484375,
+                    134.50096130371094
+                ],
+                "hand_cc": [
+                    228.5,
+                    123.0
+                ]
+            }
+        ],
+        "id": 15
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_14.png",
+        "obj_bbox_list": [
+            [
+                189,
+                108,
+                235,
+                145
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    211,
+                    105,
+                    252,
+                    129
+                ],
+                "object_cc": [
+                    212.09832763671875,
+                    126.55596923828125
+                ],
+                "hand_cc": [
+                    231.5,
+                    117.0
+                ]
+            }
+        ],
+        "id": 14
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_13.png",
+        "obj_bbox_list": [
+            [
+                197,
+                91,
+                240,
+                136
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    219,
+                    95,
+                    259,
+                    123
+                ],
+                "object_cc": [
+                    218.4938507080078,
+                    113.39836120605469
+                ],
+                "hand_cc": [
+                    239.0,
+                    109.0
+                ]
+            }
+        ],
+        "id": 13
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_12.png",
+        "obj_bbox_list": [
+            [
+                205,
+                84,
+                245,
+                130
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    225,
+                    92,
+                    266,
+                    120
+                ],
+                "object_cc": [
+                    225.1731414794922,
+                    107.21553802490234
+                ],
+                "hand_cc": [
+                    245.5,
+                    106.0
+                ]
+            }
+        ],
+        "id": 12
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_11.png",
+        "obj_bbox_list": [
+            [
+                220,
+                76,
+                251,
+                129
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    237,
+                    88,
+                    277,
+                    119
+                ],
+                "object_cc": [
+                    235.3544921875,
+                    102.19392395019531
+                ],
+                "hand_cc": [
+                    257.0,
+                    103.5
+                ]
+            }
+        ],
+        "id": 11
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_10.png",
+        "obj_bbox_list": [
+            [
+                232,
+                74,
+                256,
+                129
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    243,
+                    87,
+                    283,
+                    120
+                ],
+                "object_cc": [
+                    243.85009765625,
+                    101.55350494384766
+                ],
+                "hand_cc": [
+                    263.0,
+                    103.5
+                ]
+            }
+        ],
+        "id": 10
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_1.png",
+        "obj_bbox_list": [
+            [
+                245,
+                76,
+                261,
+                130
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    249,
+                    92,
+                    295,
+                    124
+                ],
+                "object_cc": [
+                    252.84326171875,
+                    103.32037353515625
+                ],
+                "hand_cc": [
+                    272.0,
+                    108.0
+                ]
+            }
+        ],
+        "id": 1
+    },
+    {
+        "video_id": "42316",
+        "frame_id": "frame_0.png",
+        "obj_bbox_list": [
+            [
+                245,
+                75,
+                260,
+                129
+            ]
+        ],
+        "hand_list": [
+            {
+                "side": "R",
+                "state": "P",
+                "bbox": [
+                    248,
+                    91,
+                    294,
+                    123
+                ],
+                "object_cc": [
+                    252.84002685546875,
+                    102.05548095703125
+                ],
+                "hand_cc": [
+                    271.0,
+                    107.0
+                ]
+            }
+        ],
+        "id": 0
+    }
+]
